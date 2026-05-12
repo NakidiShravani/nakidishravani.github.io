@@ -29,12 +29,12 @@ nav_order: 2
   **Shravani Nakidi**, Gujji Murali Mohan Reddy, and Michael Vynnycky\
   _Submitted_
 
-  ## Published Articles
+## Published Articles
 
-  - _A posteriori_ error estimates for the Crank-Nicolson method: application to parabolic partial differential equation with small random input data\
+- _A posteriori_ error estimates for the Crank-Nicolson method: application to parabolic partial differential equation with small random input data\
     **Shravani Nakidi**, Gujji Murali Mohan Reddy, and Michael Vynnycky\
     _J. Sci. Comput., 104(2025)_ \[[Journal](https://link.springer.com/article/10.1007/s10915-025-02912-2)\]
 
-  - Anisotropic _a posteriori_ error analysis for the two-step backward differentiation formula for parabolic integro-differential equation\
+- Anisotropic _a posteriori_ error analysis for the two-step backward differentiation formula for parabolic integro-differential equation\
     **Shravani Nakidi**, Gujji Murali Mohan Reddy, and Amiya Kumar Pani\
     _J. Sci. Comput., pp. 1-26, 93(2022)_ \[[Journal](https://link.springer.com/article/10.1007/s10915-022-01996-4)\]
