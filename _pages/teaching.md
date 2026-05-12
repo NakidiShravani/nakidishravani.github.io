@@ -8,7 +8,7 @@ nav_order: 6
 calendar: true
 ---
 
-## BITS Pilani, Hyderabad Campus.
+## BITS Pilani, Hyderabad Campus
 
 ###  Visiting Faculty, Core Engineering
 
@@ -21,11 +21,11 @@ calendar: true
 - DEZG535 - Advanced Engineering Mathematics (Semester I 2025-2026)
 - MTGEZC233 - Calculus (Semester II 2024-2025)
 
-### Teaching Assistant in WILP Division, Department of Computer Science and Information Systems.
+### Teaching Assistant in WILP Division, Department of Computer Science and Information Systems
 
 - AIMLZC416 - Mathematical Foundations for Machine Learning (Semester I 2024-25 and Semester II 2023-24)
 
-### Teaching Assistant, Department of Mathematics.
+### Teaching Assistant, Department of Mathematics
 
 - MATH F211 - Mathematics III (Linear Algebra and Linear Programming Problems) (Semester I 2023-24)
 - MATH F343 - Partial Differential Equations (Semester II 2022-23)
