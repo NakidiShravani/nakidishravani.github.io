@@ -18,6 +18,8 @@ nav_order: 2
 
 </div> -->
 
+My publications are also available on [Google Scholar.](https://scholar.google.com/citations?user=mBQIv7EAAAAJ&hl=en).
+
 ## Submitted/Working Papers
 
 - Elliptic reconstruction and a posteriori error estimates for parabolic partial differential equation with small random input data\
