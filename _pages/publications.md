@@ -7,18 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
-<!-- {% include bib_search.liquid %} -->
-
-<!-- <div class="publications">
-
-{% bibliography %}
-
-</div> -->
-
 My publications are also available on [Google Scholar.](https://scholar.google.com/citations?user=mBQIv7EAAAAJ&hl=en).
 
 ## Submitted/Working Papers
