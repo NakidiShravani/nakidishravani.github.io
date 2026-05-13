@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nakidishravani.github.io/al-folio/sitemap.xml
+Sitemap: https://nakidishravani.github.io/sitemap.xml
