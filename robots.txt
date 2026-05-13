@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nakidishravani.github.io/sitemap.xml
+Sitemap: https://nshravani.github.io/sitemap.xml
