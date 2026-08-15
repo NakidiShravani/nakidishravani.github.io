@@ -10,9 +10,9 @@ calendar: true
 
 ## BITS Pilani, Hyderabad Campus
 
-###  Visiting Faculty, Core Engineering
+###  Lead Instructor, Department of Core Engineering, WILP Division
 
-- Bridge Course - Calculus (For Speech and Hearing Impared Students) (May-June 2026)
+- Bridge Course - Calculus (For Speech and Hearing Impared Students working in TATA Motors) (May-July 2026)
 - BCIEZC111 - Linear Algebra and Calculus (Semester II 2025-2026)
 - AEZG535/DEZG535 - Advanced Engineering Mathematics (Semester II 2025-2026)
 - PSDRLZC113 - General Mathematics (Semester I 2025-2026)
@@ -21,9 +21,13 @@ calendar: true
 - DEZG535 - Advanced Engineering Mathematics (Semester I 2025-2026)
 - MTGEZC233 - Calculus (Semester II 2024-2025)
 
-### Teaching Assistant in WILP Division, Department of Computer Science and Information Systems
+### Teaching Assistant, Department of Computer Science and Information Systems, WILP Division
 
-- AIMLZC416 - Mathematical Foundations for Machine Learning (Semester I 2024-25 and Semester II 2023-24)
+- AIMLZC416 - Mathematical Foundations for Machine Learning (Semester I 2026-27, Semester I 2024-25, Semester II 2023-24)
+
+### Faculty Mentor, Department of Core Engineering, WILP Division
+
+- Faculty Mentor for seven dissertation projects (B.Tech and M.Tech), providing guidance on literature review, methodology, and dissertation preparation.
 
 ### Teaching Assistant, Department of Mathematics
 
