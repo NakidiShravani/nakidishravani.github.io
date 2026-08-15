@@ -391,16 +391,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-will-be-visiting-the-fields-institute-for-research-in-mathematical-sciences-university-of-toronto-as-a-long-term-visitor-during-august-october-2026-under-thematic-program-on-quantum-algorithms-for-differential-equations",
+          title: 'I will be visiting The Fields Institute for Research in Mathematical Sciences, University...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
