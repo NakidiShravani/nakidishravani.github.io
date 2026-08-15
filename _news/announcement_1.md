@@ -1,6 +1,6 @@
 ---
 layout: post
-date: August-October, 2026
+date: August 15, 2026
 inline: true
 related_posts: false
 ---
