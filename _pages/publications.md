@@ -11,9 +11,9 @@ My publications are also available on [Google Scholar.](https://scholar.google.c
 
 ## Submitted/Working Papers
 
-- Elliptic reconstruction and a posteriori error estimates for parabolic partial differential equation with small random input data\
+- Parametric elliptic reconstructions and a posteriori error estimates for parabolic partial differential equations with small randomness in a Robin boundary condition\
   **Shravani Nakidi**, Gujji Murali Mohan Reddy, Amiya Kumar Pani, and Stig Larrson\
-  _Submitted_
+  _Submitted_ \[[arXiv](https://arxiv.org/abs/2606.25640)\]
   
 - _A posteriori_ error estimates for the BDF2 method for parabolic partial differential equation with small random input data\
   **Shravani Nakidi**, Gujji Murali Mohan Reddy, and Michael Vynnycky\
