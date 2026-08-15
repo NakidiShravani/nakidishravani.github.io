@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: August-October, 2026
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+- I will be visiting [The Fields Institute for Research in Mathematical Sciences](http://www.fields.utoronto.ca/), [University of Toronto](https://www.utoronto.ca/), as a _Long-Term Visitor_ during August-October, 2026, under [Thematic Program on Quantum Algorithms for Differential Equations](http://www.fields.utoronto.ca/activities/26-27/quantum-algorithms-QADE) 
