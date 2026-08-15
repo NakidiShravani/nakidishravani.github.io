@@ -29,6 +29,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! Welcome to my webpage. I am a Visiting Faculty in the [Work Integrated Learning Programmes, BITS Pilani, Hyderabad Campus](https://bits-pilani-wilp.ac.in/). My research comes under the broad umbrella of numerical analysis and partial differential equations (PDEs), with a primary goal of developing, analyzing, and implementing numerical methods for solving PDEs under uncertainty. 
+Hello! Welcome to my webpage. I am a Visiting Faculty in the [Work Integrated Learning Programmes, BITS Pilani, Hyderabad Campus](https://bits-pilani-wilp.ac.in/). My research comes under the broad umbrella of numerical analysis and partial differential equations (PDEs), with a primary goal of developing, analyzing, and implementing numerical methods for solving PDEs under uncertainty. [Here](assets/pdf/CV.pdf) is my CV. 
 
 I received my Ph.D. in Mathematics from [Birla Institute of Technology and Science Pilani - Hyderabad Campus](https://www.bits-pilani.ac.in/hyderabad/), under the supervision of [Prof. Gujji Murali Mohan Reddy](https://www.bits-pilani.ac.in/hyderabad/gujji-murali-mohan-reddy). Prior to Ph.D., I received M.Sc. in Applied Mathematics from the [National Institute of Technology Warangal, India](https://www.nitw.ac.in/). I completed my undergraduate degree from [Aurora college](https://www.adc.edu.in/), [Osmania University](https://www.osmania.ac.in/), receiving a B.Sc. in Mathematics, Statistics and Computer Science.
